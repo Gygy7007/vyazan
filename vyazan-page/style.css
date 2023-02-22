@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.korzina {position: absolute;
+width: 35px;
+height: 35px;
+left: 939px;
+top: 15px;} 
+
+.menu{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  padding-top: 19px;
+  padding-left: 24px;
+}
+
+a.menu-item {
+  text-align: center;
+  text-decoration: none;
+  font-style: normal;
+  margin-right: 36px;
+  color: #FFFFFF;
+}
+a.menu-item:hover {
+  font-weight: 900;
+}
+
+.page{
+  position: absolute;
+  height: 1812px;
+  width: 30px;
+  background: #FFF;
+  left: 0px;
+  top: 0px;
+}
+
+.header-bg{
+position: absolute;
+width: 1000px;
+height: 600px;
+left: 0px;
+top: 0px;
+background: #F69D9D;}
+
+.h1{
+font-family: "Mulish";
+position: absolute;
+left: 33px;
+top: 58px;
+font-style: normal;
+font-weight: 1000;
+font-size: 145px;
+margin: 0 auto;
+color: #FFFFFF;
+}
+
+.h2-white{
+position: absolute;
+width: 512px;
+height: 124px;
+left: 41px;
+top: 219px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 60px;
+color: #FFFFFF;
+margin: 0 auto;
+}
+
+.header-lady{
+position: absolute;
+width: 524px;
+height: 600px;
+left: 436px;
+top: 0px;
+}
+
+.order-button{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+position: absolute;
+width: 275px;
+height: 57px;
+left: 41px;
+top: 429px;
+background: #FCD23E;
+border-radius: 32px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+color: #333333;
+}
+
+.h1-black {
+position: absolute;
+width: 614px;
+height: 47px;
+left: 297px;
+top: 614px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 1000;
+font-size: 38px;
+line-height: 48px;
+letter-spacing: 0.1px;
+}
+
+.p-black {position: absolute;
+width: 658px;
+height: 177px;
+left: 297px;
+top: 697px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+color: #000000;
+
+}
+.klubok {position: absolute;
+width: 389px;
+height: 421px;
+left: -99px;
+top: 496px;
+}
+
+.palto {position: absolute;
+width: 451px;
+height: 692px;
+left: 35px;
+top: 943px;}
+.sviter {position: absolute;
+width: 451px;
+height: 396px;
+left: 506px;
+top: 943px;
+}
+
+.h2-black {position: absolute;
+width: 444px;
+height: 76px;
+left: 513px;
+top: 1332px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 1000;
+font-size: 30px;
+line-height: 38px;
+letter-spacing: 0.1px;
+color: #000000;
+}
+
+.p2-black{position: absolute;
+width: 376px;
+height: 121px;
+left: 513px;
+top: 1426px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 29px;
+letter-spacing: 0.1px;}
+
+.price1 {position: absolute;
+width: 56px;
+height: 35px;
+left: 434px;
+top: 934px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+
+.price2 {position: absolute;
+width: 56px;
+height: 35px;
+left: 904px;
+top: 934px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+
+.logo {display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+position: absolute;
+width: 96px;
+height: 25px;
+left: 40px;
+top: 1717px;
+}
+
+.email {
+font-family: "roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+position: absolute;
+width: 126px;
+height: 36px;
+left: 40px;
+top: 1733px;}
+
+.adress {
+position: absolute;
+width: 212px;
+height: 34px;
+left: 189px;
+top: 1733px;
+font-family: "roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;}
+
+.icons {
+position: absolute;
+width: 126px;
+height: 36px;
+left: 843px;
+top: 1748px;
+padding-bottom: 20px 
+}
